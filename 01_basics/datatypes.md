@@ -12,3 +12,7 @@
 - Functions, Modules, classes,
 
 - Advanced: Decorators, Generators, Iterators, Metaprogramming
+
+Garbage Collection of number/floating integers, happens in python, but it is not immediate process.
+
+Variable don't have a datatype in python, it is the reference that has datatype which is stored in memory.
